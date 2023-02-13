@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29261" started-at="2022-08-01T09:50:50Z" finished-at="2022-08-01T09:51:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29261" started-at="2022-08-01T09:50:50Z" finished-at="2022-08-01T09:51:19Z">
+      <class name="com.offlineWebsite.DashBoradPage1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.offlineWebsite.DashBoradPage1@343f4d3d]" name="setup" is-config="true" duration-ms="26110" started-at="2022-08-01T15:20:50Z" finished-at="2022-08-01T15:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="heading()[pri:1, instance:com.offlineWebsite.DashBoradPage1@343f4d3d]" name="heading" duration-ms="92" started-at="2022-08-01T15:21:16Z" finished-at="2022-08-01T15:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heading -->
+        <test-method status="PASS" signature="dashboard()[pri:2, instance:com.offlineWebsite.DashBoradPage1@343f4d3d]" name="dashboard" duration-ms="12" started-at="2022-08-01T15:21:16Z" finished-at="2022-08-01T15:21:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboard -->
+        <test-method status="PASS" signature="linkDisplayed()[pri:3, instance:com.offlineWebsite.DashBoradPage1@343f4d3d]" name="linkDisplayed" duration-ms="517" started-at="2022-08-01T15:21:16Z" finished-at="2022-08-01T15:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkDisplayed -->
+        <test-method status="PASS" signature="check()[pri:4, instance:com.offlineWebsite.DashBoradPage1@343f4d3d]" name="check" duration-ms="196" started-at="2022-08-01T15:21:17Z" finished-at="2022-08-01T15:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="checkWindowDisplayed()[pri:4, instance:com.offlineWebsite.DashBoradPage1@343f4d3d]" name="checkWindowDisplayed" duration-ms="793" started-at="2022-08-01T15:21:17Z" finished-at="2022-08-01T15:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWindowDisplayed -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.offlineWebsite.DashBoradPage1@343f4d3d]" name="closeWindow" is-config="true" duration-ms="1308" started-at="2022-08-01T15:21:18Z" finished-at="2022-08-01T15:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.offlineWebsite.DashBoradPage1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
